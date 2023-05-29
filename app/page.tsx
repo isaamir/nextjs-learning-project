@@ -1,3 +1,6 @@
+// By default this is a server side rendered component, if want to turn 'server side to client side' use 
+
+// "use client" // directive to top of page
 
 import Feed from "@components/Feed"
 
