@@ -22,10 +22,10 @@ export const metadata = {
 </head> */}
 
 // for dynamic
-export async function generateMetadata({params, searchParams}: any) {
+// export async function generateMetadata({params, searchParams}: any) {
   // const product = await getProduct(params.id);
   // return { title: product.id}
-}
+// }
 
 // output is :
 {/* <head> 
